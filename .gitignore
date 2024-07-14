@@ -11,5 +11,5 @@ standard_input
 cascades
 model
 output
-input/*
+input/*.jpg
 使用方法.txt
