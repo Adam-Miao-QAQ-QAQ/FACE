@@ -1,0 +1,15 @@
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+raw_input
+standard_input
+cascades
+model
+output
+input/*
+使用方法.txt
